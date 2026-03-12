@@ -52,7 +52,7 @@ The implemented architecture enables:
           │
           ├── Analytics Rules
           ├── Incident Management
-          ├── Investigation Graph
+          ├── Investigation
           └── Workbooks
           │
           ▼
