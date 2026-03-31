@@ -86,28 +86,6 @@ Centralized log collection and analysis platform.
 Hosts the cloud infrastructure including virtual machines, network
 security groups, and monitoring agents.
 
-# Detection Workflow
-
-    Cloud Infrastructure
-           │
-           ▼
-    Log Collection
-           │
-           ▼
-    Log Analytics Workspace
-           │
-           ▼
-    SIEM Analytics Rules
-           │
-           ▼
-    Security Alerts
-           │
-           ▼
-    Incident Investigation
-           │
-           ▼
-    Automated Response
-
 # Requirements
 
 To reproduce the deployment you need:
